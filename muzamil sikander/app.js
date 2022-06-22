@@ -53,3 +53,35 @@
 // var num5 = ["head", "Tail"]
 // document.write(  Math.round(Math.random()*1 ) + "<br>" + "Random coin value " + num5[Math.round(Math.random(num5)*1)] + "<br>")
 // document.write(  Math.round(Math.random()*1 ) + "<br>" + "Random coin value " + num5[Math.round(Math.random(num5)*1)])
+
+// question # 8
+
+// document.write ( "Random Number between 1 to 100: " + Math.round(Math.random( )*100 ) + "<br>")
+// document.write ( "Random Number between 1 to 100: " + Math.round(Math.random( )*100 ))
+
+// question # 9
+
+// var userWeight = parseFloat(prompt(" Please Enter Your Weight..!"))
+// document.write("The weight Of user is : " + userWeight + " Kilogram" )
+
+// question # 10
+
+// var secretNumber = [ "1","3","5","7","9"]
+// var userInput = parseInt(prompt(" Enter Your Secret Value..!"))
+// if(userInput === secretNumber){
+//     document.write("Congratulations You got our secret number..!")
+
+// }
+// else{
+//     document.write("You loss our game")
+// }
+
+// question # 11
+
+// var monthNames = ["January", "February", "March", "April", "May", "June",
+//   "July", "August", "September", "October", "November", "December"];
+
+// var CurrentDate = new Date();
+// document.write("The current month is : " + monthNames[CurrentDate.getMonth()]);
+
+// question # 12
