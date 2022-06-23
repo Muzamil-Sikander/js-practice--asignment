@@ -85,3 +85,16 @@
 // document.write("The current month is : " + monthNames[CurrentDate.getMonth()]);
 
 // question # 12
+
+
+// function getDayName(dateStr, locale)
+// {
+//     var date = new Date(dateStr);
+//     return date.toLocaleDateString(locale, { weekday: 'long' });        
+// }
+
+// var dateStr = '05/19/2022';
+// var day = getDayName(dateStr, "nl-NL");
+// alert("today is : " + day )
+
+// question # 13
